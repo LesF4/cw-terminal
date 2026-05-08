@@ -1,5 +1,7 @@
 # ⚡ CW Terminal
 
+[![Téléchargements totaux](https://img.shields.io/github/downloads/LesF4/cw-terminal/total?style=for-the-badge)](https://github.com/LesF4/cw-terminal/releases)
+
 **Terminal de décodage et d'envoi CW (Morse) en temps réel pour radioamateurs**
 
 > 📻 Version 1.8 — Mai 2026
